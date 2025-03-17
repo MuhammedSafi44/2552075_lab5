@@ -7,7 +7,7 @@ app.use(express.json());
 let books = [];
 
 app.get('/whoami', (req, res) => {
-    res.json({ studentNumber: '12345678' });
+    res.json({ studentNumber: '2552075' });
 });
 
 
